@@ -51,9 +51,9 @@ if __name__ == '__main__':
 Student0 = SpecialStudent('Mark Zuckerberg','Bill Gates')
 Student0.ShowAskEXP() 
 Student0.ShowEXP()
+')
 
-student1 = Student('Albert')
-print(student1.name)
+student1 = Student('Albertprint(student1.name)
 student1.Hello()
 
 print('------------')
